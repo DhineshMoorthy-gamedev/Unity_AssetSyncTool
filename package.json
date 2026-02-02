@@ -1,0 +1,20 @@
+{
+  "name": "com.assetsync.asset-sync-tool",
+  "version": "1.0.0",
+  "displayName": "Asset Sync Tool",
+  "description": "A Unity tool for synchronizing assets between projects and external sources",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "editor",
+    "tools",
+    "asset",
+    "sync"
+  ],
+  "author": {
+    "name": "Asset Sync Team",
+    "email": "support@assetsync.com"
+  },
+  "category": "Editor Extensions",
+  "license": "MIT"
+}
